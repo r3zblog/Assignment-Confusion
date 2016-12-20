@@ -35,3 +35,98 @@ i{
 i:hover {
 	color:blue;
 }
+/* .navbar-default{
+    background-color: #2f3ba2;
+}
+.navbar{
+    background-color: #2f3ba2;
+}
+.nav{
+    background-color: #2f3ba2;
+}
+.navbar-header {
+    background-color: #2f3ba2;
+}
+.navbar-collapse {
+    background-color: #2f3ba2;
+}
+.collapse {
+        background-color: #2f3ba2;
+}
+.dropdown-menu {
+    background-color: #2f3ba2;
+}
+.activ {
+    background-color: #2f3ba2;
+}
+.navbar-fixed-top{
+    background-color: #2f3ba2;
+}
+.navbar-toggle{
+    background-color: #2f3ba2;
+}
+.navar-default::after{
+    background-color: #2f3ba2;
+}
+.navar-default::efter{
+    background-color: #2f3ba2;
+} */
+.navbar-custom {
+    background-color: #2f3ba2;
+    border-color: #2f3ba2;
+    border-radius: 0;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+    color: #FFF;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color: #FFF;
+}
+.dropdown-menu{
+    background-color: #2f3ba2;
+    color:#FFF;
+}
+.dropdown-menu > li > a:focus {
+    background-color: #2f3ba2;
+}
+
+.dropdown-menu > li > a {
+    color: #FFF;
+}
+.dropdown-header{
+    color:#000000;
+    font-size: 16px;
+}
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus {
+    background-color: ##f5f5f5;
+    color:#000000;
+}
+.navbar-custom .navbar-nav > .active > a,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus {
+    color: #000000;
+    background-color: #ccc;
+}
+
+.navbar-custom .navbar-text {
+    color: #FFF;
+}
+
+.navbar-custom .navbar-toggle {
+    border-color: #2f3ba2;
+}
+
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+    background-color: #ccc;
+    color: #000000;
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
